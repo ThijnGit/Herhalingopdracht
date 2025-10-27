@@ -1,0 +1,24 @@
+nav {
+    background-color: lightgreen;
+    height: 20vh;
+    display: flex;
+    width: 100vw;
+}
+.logo {
+    object-fit: contain;
+    height: 18vh;
+    width: 10vw;
+    margin: 5px;
+}
+
+.navbar_div2 {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100vw;
+    align-items: center;
+}
+nav > div > a {
+    text-decoration: none;
+    font-size: 2em;
+}
+

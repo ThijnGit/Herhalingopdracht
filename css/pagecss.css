@@ -1,0 +1,31 @@
+.homepage_container_inhoud {
+    display: flex;
+    flex-direction: row;
+}
+.kippie_div {
+    height: 80vh;
+    width: 20vw;
+    background-color: lightgreen;
+}
+.inhoud_div {
+    width: 60vw;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.dicky_bird_div {
+    height: 80vh;
+    width: 20vw;
+    background-color: lightgreen;
+    position: relative;
+}
+.grooth1 {
+    font-size: 3em;
+    margin: 10px;
+}
+
+.grootp {
+    font-size: 1.5em;
+    margin: 10px;
+
+}

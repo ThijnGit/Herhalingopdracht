@@ -1,0 +1,9 @@
+.wormen_spawn_div {
+    position: relative;
+    background: lightgreen;
+    width: 60vw;
+    height: 20vh;
+    margin-top: auto;
+    border: 1px black solid;
+    z-index: 1;
+}
